@@ -1,0 +1,144 @@
+/* Resetando margens e padding para garantir um layout mais consistente */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Estilo para o cabeçalho */
+header {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Estilo para as seções */
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para os títulos */
+h1, h2 {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Container flexível para as imagens e textos */
+.content-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+/* Cada item dentro do conteúdo */
+.content-item {
+    width: 45%;
+    text-align: center;
+}
+
+/* Estilo para as imagens */
+.content-item img {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para os subtítulos das imagens */
+.content-item h3 {
+    color: #28a745;
+    margin-top: 10px;
+}
+
+/* Estilo para o rodapé */
+footer {
+    background-color: #28a745;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+/* Resetando margens e padding para garantir um layout mais consistente */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f9;
+    color: #333;
+}
+
+/* Estilo para o cabeçalho */
+header {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* Estilo para as seções */
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para os títulos */
+h1, h2 {
+    font-family: 'Arial', sans-serif;
+}
+
+/* Container flexível para as imagens e textos */
+.content-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+/* Cada item dentro do conteúdo */
+.content-item {
+    width: 45%;
+    text-align: center;
+}
+
+/* Estilo para as imagens */
+.content-item img {
+    width: 100%;
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo para os subtítulos das imagens */
+.content-item h3 {
+    color: #28a745;
+    margin-top: 10px;
+}
+
+/* Estilo para o rodapé */
+footer {
+    background-color: #28a745;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
